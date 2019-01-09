@@ -9,7 +9,7 @@ import java.nio.file.Paths;
  * Created by Ilyas on 09.01.2019.
  */
 @Service
-public class Finder {
+public class FinderService {
 
     private Path path;
 
